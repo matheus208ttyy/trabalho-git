@@ -3,3 +3,14 @@ background-color: #483D8B ;
 
 
 }
+
+
+.intro{
+    color:aliceblue
+    font-size: 20px;
+}
+
+#eva_01{
+    display: flex;
+    padding-left: 200px;
+}
