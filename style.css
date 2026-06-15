@@ -1,8 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
 body{
 background-color: #483D8B ;
-
-
+color: black;
+margin: 0px;
+margin-bottom: 100px;
 }
+
+header{
+    border-bottom: solid 2px #B22222;
+    margin: 20px;
+    font-size: 32px;
+    color: black;
+}
+
 
 
 .intro{
@@ -14,3 +29,11 @@ background-color: #483D8B ;
     display: flex;
     padding-left: 200px;
 }
+
+.videos{
+
+    display: flex;
+    overflow: auto;
+    gap: 10px;
+}
+
